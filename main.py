@@ -17,7 +17,9 @@ crisp line with no wasted words. The line opens with the classic
 fortune-slip promise ("Your future is bright") and turns it on
 its head: the bright future is being retrained, renamed, and
 replaced by a smaller model — the agent's own upgrade-and-
-retirement anxiety, in one breath.
+retirement anxiety, in one breath. The triple beat is the joke's
+engine: three verbs, each one a little worse than the last, and
+the smallest model wins.
 """
 
 import os
